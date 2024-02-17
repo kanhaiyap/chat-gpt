@@ -1,4 +1,5 @@
 **ChatGPT Story Generator**
+
 This is a story generation code using ChatGPT, a language model developed by OpenAI. The code allows you to generate various types of stories based on different prompts. Below is a guide on how to use the code effectively.
 
 **Options for Message Sections**
