@@ -3,6 +3,7 @@
 This is a story generation code using ChatGPT, a language model developed by OpenAI. The code allows you to generate various types of stories based on different prompts. Below is a guide on how to use the code effectively.
 
 **Options for Message Sections**
+
 There are three options for the message_sections_role parameter:
 
 User: Represents the end user interacting with the assistant. This option is used to mimic user inputs.
@@ -11,6 +12,8 @@ System: Used for injecting information or processing data in the middle without 
 For this code, the user role has been utilized to mimic user interactions.
 
 **Available Options for Story Generation**
+
+
 You can generate stories based on different prompts by customizing the following lists:
 
 python
